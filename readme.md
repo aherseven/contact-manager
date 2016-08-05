@@ -1,14 +1,14 @@
 Untuk menginstal silahkan ketikan command:
 
-composer install
+```composer install```
 
 Jangan lupa buat dan setting database pada file .env
 
 Kemudian jalankan
 
-php artisan migrate
+```php artisan migrate```
 
 dan terakhir
 
-php artisan db:seed
+```php artisan db:seed```
 
